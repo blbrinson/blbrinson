@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Brice 👋
 
-<!--
-**blbrinson/blbrinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Full-Stack Developer | Future iOS Engineer
 
-Here are some ideas to get you started:
+💻 Currently building with: Python, JavaScript, Node.js, React  
+📱 Future Focus: iOS Development (Swift & SwiftUI)  
+🚀 Goal: Create beautiful, user-friendly apps that make an impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio Website](https://myportfolio.com)  
+- [Expense Tracker App](https://github.com/username/expense-tracker)  
+- [Python Automation Scripts](https://github.com/username/automation-scripts)
+
+## Connect with Me
+[LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:your@email.com)
